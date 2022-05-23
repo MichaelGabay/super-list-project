@@ -1,0 +1,13 @@
+.title{
+  border: dotted 4px green;
+}
+.mision{
+  border: solid 1px silver;
+  border-radius: 4px;
+  /* background: rgb(31, 206, 31); */
+}
+.myPar{
+  font-size: 22px;
+  font-weight: 500;
+  direction: rtl;
+}
